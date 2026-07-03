@@ -91,6 +91,9 @@ This node design is based on community analysis comparing tiny Krea 2 projector 
 
 # See the link for reference
 https://www.reddit.com/r/StableDiffusion/comments/1ul38ei/made_yet_another_bypass_filter_for_krea_2_this/
+
 https://www.reddit.com/r/StableDiffusion/comments/1ukh334/i_extracted_the_values_of_krea_2_safery_filters/
+
 https://www.reddit.com/r/StableDiffusion/comments/1ueacq2/comment/otix1aa/
+
 https://civitai.red/models/2728234/krea2filterbypass?modelVersionId=3067151
