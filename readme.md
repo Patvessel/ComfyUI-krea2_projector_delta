@@ -5,7 +5,7 @@ Features
 
 Preset-based control for known (1,12) projector deltas such as FB2, FB3, FEDOR, and SKC3VO-style values.
 
-Custom mode for manually entering 12 comma-separated values ​​when a preset is not enough.
+Custom mode for manually enter 12 comma-separated values ​​when individual delta values ​​need to be adjusted manually.
 
 Strength control that scales the selected delta before patching the model, similar to how LoRA patch strength is applied in ComfyUI.
 
