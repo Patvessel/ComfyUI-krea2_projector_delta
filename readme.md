@@ -1,7 +1,8 @@
 # Krea2 Projector Delta
 
 A lightweight ComfyUI custom node that applies a direct (1,12) delta patch to diffusion_model.txtfusion.projector.weight, with editable presets, custom value input, and a LoRA-style strength control.
-Features
+
+# Features
 
 Preset-based control for known (1,12) projector deltas such as FB2, FB3, FEDOR, and SKC3VO-style values.
 
