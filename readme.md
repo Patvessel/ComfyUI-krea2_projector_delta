@@ -29,9 +29,9 @@ Restart ComfyUI so the backend node and frontend JavaScript extension are loaded
 
 Example:
 
-bash
+```bash
 git clone https://github.com/yourname/krea2-projector-delta.git ComfyUI/custom_nodes/krea2-projector-delta
-
+```
 # Files
 
 text
