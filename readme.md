@@ -19,6 +19,8 @@ This node is designed for cases where the effective modification can be expresse
 
 In practice, that makes it useful when several tiny preset files are really just different parameterizations of the same small control space. Instead of swapping multiple tiny files, the node exposes that control directly in the graph.
 
+Furthermore, manual adjustment is helpful when it's necessary to explore better parameter combinations.
+
 # Installation
 
 Clone or copy this repository into your ComfyUI/custom_nodes/ directory.
