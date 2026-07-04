@@ -41,9 +41,11 @@ text
 krea2-projector-delta/
 ├─ __init__.py
 ├─ krea2_projector_delta.py
+├─ krea2_projector_delta_12.py
 ├─ presets.json
 └─js/
-└─ krea2_projector_delta.js
+├─ krea2_projector_delta.js
+└─ krea2_projector_delta_12.js
 
 # Usage
 
