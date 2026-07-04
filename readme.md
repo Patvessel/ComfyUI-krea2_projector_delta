@@ -58,7 +58,7 @@ krea2-projector-delta/
 
 Load a compatible Krea 2 model in ComfyUI.
 
-Insert Krea2 Projector Delta between the model loader and the sampler.
+Insert "Krea2 Projector Delta" or "Krea2 Projector Delta Advance" node between the model loader and the sampler.
 
 Choose a preset, or enable use_custom and enter 12 comma-separated values.
 
